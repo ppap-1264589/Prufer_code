@@ -5,7 +5,7 @@
 
 
 ### Ý nghĩa
-Prufer code giúp ta nén một cây n đỉnh và n-1 cạnh thành một dãy n-1 số
+Prufer code giúp ta nén một cây n đỉnh và n-1 cạnh thành một dãy n-2 số
 
 Ứng dụng quan trọng nhất của thuật toán là chứng minh cho công thức Cayley: Số cách tạo một cây khung n đỉnh là 
 n^(n-2) cách
